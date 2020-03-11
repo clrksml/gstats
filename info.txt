@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"gStats"
+	"version"	"1.0"
+	"up_date"	"April 03, 2011"
+	"author_name"	"Clark"
+	"author_email"	"Clark@HavocGamers.net"
+	"author_url"	"www.HavocGamers.net"
+	
+	"info"		"A garry's mod mathematical statistic system that records varibles and strings based upon the players in-game performance."
+}
